@@ -22,7 +22,7 @@ Opened GNU:
   - [...]()
 
 Closed/Private
-  - [node-base-server](https://github.com/js-node-collection/node-base-server)<br>A Node Js complete server system<br>
+  - [node-base-server](https://github.com/js-node-collection/node-base-server)<br>A node js basic server configuration based on express with logs and more...<br>
   - [nbs-adds-expiry](https://github.com/js-node-collection/nbs-adds-expiry)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
   - [nbs-adds-pathcleaner](https://github.com/js-node-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
   - [nbs-adds-emive](https://github.com/js-node-collection/nbs-adds-emive)<br>An nbs add-on to the API that emit and receive data<br>
