@@ -1,2 +1,2 @@
-# .github
-This is a collection of specific projects for node js... Follow we and discover more repositories into the lists ;)
+Hello! This is a technical page...<br>
+SEE MORE ON [COLLECTION MAIN PAGE](https://github.com/js-node-collection)
