@@ -1,5 +1,5 @@
 
-<img width="5000" src="..." />
+<img width="5000" src="./banner.nodeprojectcollection.webp" />
 
 ---
 
