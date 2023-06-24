@@ -1,5 +1,5 @@
 
-<img width="5000" src="./banner.nodeprojectcollection.webp" />
+<img width="5000" src="https://raw.githubusercontent.com/js-node-collection/.github/main/profile/banner.nodeprojectcollection.webp" />
 
 ---
 
