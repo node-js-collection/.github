@@ -22,6 +22,8 @@ Opened GNU:
   - [...]()
 
 Closed/Private
+
+  - [nbs-assets-unpacker](https://github.com/js-node-collection/node-server-asset)<br>A node js basic cli installer packs configuration based on express with logs and more...<br>
   - [node-base-server](https://github.com/js-node-collection/node-base-server)<br>A node js basic server configuration based on express with logs and more...<br>
   - [nbs-adds-expiry](https://github.com/js-node-collection/nbs-adds-expiry)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
   - [nbs-adds-pathcleaner](https://github.com/js-node-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
