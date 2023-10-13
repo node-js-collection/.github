@@ -25,7 +25,7 @@ Closed/Private
 
   - [node-server-assets-packer](https://github.com/js-node-collection/node-server-asset-packer)<br>A node js basic cli installer packs configuration based on express with logs and more...<br>
   - [node-base-server](https://github.com/js-node-collection/node-base-server)<br>A node js basic server configuration based on express with logs and more...<br>
-  - [nbs-adds-expiry](https://github.com/js-node-collection/nbs-adds-expiry)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
+  - [nbs-expiry-files-system](https://github.com/js-node-collection/nbs-expiry-files-system)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
   - [nbs-adds-pathcleaner](https://github.com/js-node-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
   - [nbs-adds-emive](https://github.com/js-node-collection/nbs-adds-emive)<br>An nbs add-on to the API that emit and receive data<br>
   - [nbs-adds-crud](https://github.com/js-node-collection/nbs-adds-crud)<br>An nbs add-on to the CRUD/API of file-system<br>
