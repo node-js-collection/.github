@@ -1,2 +1,1 @@
-Hello! This is a technical page...<br>
-SEE MORE ON [COLLECTION MAIN PAGE](https://github.com/js-node-collection)
+This is a tecnical space | <b>Go to [official profile maniest here](https://github.com/js-node-collection)</b>
