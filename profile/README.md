@@ -1,24 +1,38 @@
+<b>⚠️ WE ARE IN MAINTENANCE!</b>
 
-<img width="5000" src="https://raw.githubusercontent.com/js-node-collection/.github/main/profile/banner.nodeprojectcollection.webp" />
+---
+
+<a href="https://github.com/sponsors/js-node-collection">
+  <img src="https://raw.githubusercontent.com/js-collection/.github/main/banner.nodejscollection.webp">
+</a>
 
 ---
 
 ## Hello everybody 🎉
-This space was created as a binder for several dedicated unofficial repos for "Nodejs & MongoDb bilerplates and exemple project".<br>
-Everything you see is legacy, unofficial material built for business purposes
+
+This space was created as a binder for several dedicated repos for releasing of differents "Nodejs & MongoDb bilerplates and exemple project" assets (like experiments, tutorials, patterns, techs and more) for improvment ourselves and you.<br>
+Everything you see is legacy, unofficial material built for business purposes and release in 99% of case in MIT, GNU, OPEN SOFTWARE (read in anycase the licence and wiki inside every sub repos)<br><br>
+
+In short: It's a folder collection abaut standard and experimental nodejs techniques and projects created by @berto-dev and @deveet-technologies for our business and everyone. <b>[SUPPORT IT VIA LIKES AND DONATIONSSSS !🍻](https://github.com/sponsors/js-node-collection)</b><br><br>
 
 ---
 
-- <b>Remember:</b> This space is not an official github or nodejs/MongoDb space.
-- <b>How to:</b> Browse [all repositories](https://github.com/orgs/js-node-collection/repositories?q=&sort=name) and discover every detail of them. You can see it? So, It's GNU! ;)
-- <b>Licence:</b> All licenses are present within each repository. We don't assume any responsibility for the material displayed. 
+- <b>Remember:</b> This space is a unofficial open lab.
+- <b>How to:</b> Browse all projects and discover every detail of them. It's all free ;)
+- <b>Licence:</b> All licenses are present within each repository. We don't assume any responsibility for the material displayed.
 - <b>Contribute:</b> No plans are currently open or ready to contribute ... however you can always send a message to a contributor.
 
 ---
 
-Project List:
+### Project tabs:
 
-Opened GNU:
+[<sub>![](https://img.shields.io/badge/ALL_REPOSITORIES-lavender.svg)</sub>](https://github.com/orgs/js-node-collection/repositories?q=&sort=name) ︙ [<sub>![](https://img.shields.io/badge/EXPERIMENTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Aexperiments+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/RESOURCES-lavender.svg)</sub>](https://github.com/search?q=topic%3Aresources+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/TUTORIALS-lavender.svg)</sub>](https://github.com/search?q=topic%3Atutorial+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/SCRIPTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Ascript+org%3Ajs-node-collection&type=Repositories) ︙ [<sub>![](https://img.shields.io/badge/PAKER-lavender.svg)</sub>](https://github.com/search?q=topic%3Apaker+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS_TOOLS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS-Tools+org%3Ajs-node-collection&type=Repositories) </b>
+
+---
+
+### Project List:
+
+Open / Public:
   - [...]()
 
 Closed/Private
