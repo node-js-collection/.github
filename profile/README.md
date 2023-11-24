@@ -2,8 +2,8 @@
 
 ---
 
-<a href="https://github.com/sponsors/js-node-collection">
-  <img src="https://raw.githubusercontent.com/js-node-collection/.github/main/banner.nodejscollection.webp">
+<a href="https://github.com/sponsors/node-js-collection">
+  <img src="https://raw.githubusercontent.com/node-js-collection/.github/main/banner.nodejscollection.webp">
 </a>
 
 ---
@@ -13,7 +13,7 @@
 This space was created as a binder for several dedicated repos for releasing of differents "Nodejs & MongoDb bilerplates and exemple project" assets (like experiments, tutorials, patterns, techs and more) for improvment ourselves and you.<br>
 Everything you see is legacy, unofficial material built for business purposes and release in 99% of case in MIT, GNU, OPEN SOFTWARE (read in anycase the licence and wiki inside every sub repos)<br><br>
 
-In short: It's a folder collection abaut standard and experimental nodejs techniques and projects created by @berto-dev and @deveet-technologies for our business and everyone. <b>[SUPPORT IT VIA LIKES AND DONATIONSSSS !🍻](https://github.com/sponsors/js-node-collection)</b><br><br>
+In short: It's a folder collection abaut standard and experimental nodejs techniques and projects created by @berto-dev and @deveet-technologies for our business and everyone. <b>[SUPPORT IT VIA LIKES AND DONATIONSSSS !🍻](https://github.com/sponsors/node-js-collection)</b><br><br>
 
 ---
 
@@ -26,7 +26,7 @@ In short: It's a folder collection abaut standard and experimental nodejs techni
 
 ### Project tabs:
 
-[<sub>![](https://img.shields.io/badge/ALL_REPOSITORIES-lavender.svg)</sub>](https://github.com/orgs/js-node-collection/repositories?q=&sort=name) ︙ [<sub>![](https://img.shields.io/badge/EXPERIMENTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Aexperiments+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/RESOURCES-lavender.svg)</sub>](https://github.com/search?q=topic%3Aresources+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/TUTORIALS-lavender.svg)</sub>](https://github.com/search?q=topic%3Atutorial+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/SCRIPTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Ascript+org%3Ajs-node-collection&type=Repositories) ︙ [<sub>![](https://img.shields.io/badge/PAKER-lavender.svg)</sub>](https://github.com/search?q=topic%3Apaker+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS+org%3Ajs-node-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS_TOOLS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS-Tools+org%3Ajs-node-collection&type=Repositories) </b>
+[<sub>![](https://img.shields.io/badge/ALL_REPOSITORIES-lavender.svg)</sub>](https://github.com/orgs/node-js-collection/repositories?q=&sort=name) ︙ [<sub>![](https://img.shields.io/badge/EXPERIMENTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Aexperiments+org%3Anode-js-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/RESOURCES-lavender.svg)</sub>](https://github.com/search?q=topic%3Aresources+org%3Anode-js-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/TUTORIALS-lavender.svg)</sub>](https://github.com/search?q=topic%3Atutorial+org%3Anode-js-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/SCRIPTS-lavender.svg)</sub>](https://github.com/search?q=topic%3Ascript+org%3Anode-js-collection&type=Repositories) ︙ [<sub>![](https://img.shields.io/badge/PAKER-lavender.svg)</sub>](https://github.com/search?q=topic%3Apaker+org%3Anode-js-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS+org%3Anode-js-collection&type=Repositories) [<sub>![](https://img.shields.io/badge/NBS_TOOLS-lavender.svg)</sub>](https://github.com/search?q=topic%3ANBS-Tools+org%3Anode-js-collection&type=Repositories) </b>
 
 ---
 
@@ -37,14 +37,14 @@ Open / Public:
 
 Closed/Private
 
-  - [node-server-assets-packer](https://github.com/js-node-collection/node-server-asset-packer)<br>A node js basic cli installer packs configuration based on express with logs and more...<br>
-  - [node-base-server](https://github.com/js-node-collection/node-base-server)<br>A node js basic server configuration based on express with logs and more...<br>
-    - [nbs-once-downloads](https://github.com/js-node-collection/nbs-once-downloads)<br>A nbs add-on for auto cleaned download file system into temp folder<br>
-    - [nbs-expiry-files-system](https://github.com/js-node-collection/nbs-expiry-files-system)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
-    - [nbs-adds-pathcleaner](https://github.com/js-node-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
-    - [nbs-api-emitter-receiver](https://github.com/js-node-collection/nbs-api-emitter-receiver)<br>An nbs add-on to the API that emit and receive data<br>
-    - [nbs-adds-crud](https://github.com/js-node-collection/nbs-adds-crud)<br>An nbs add-on to the CRUD/API of file-system<br>
-    - [nbs-adds-mdbh](https://github.com/js-node-collection/nbs-adds-mdbh)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
+  - [node-server-assets-packer](https://github.com/node-js-collection/node-server-asset-packer)<br>A node js basic cli installer packs configuration based on express with logs and more...<br>
+  - [node-base-server](https://github.com/node-js-collection/node-base-server)<br>A node js basic server configuration based on express with logs and more...<br>
+    - [nbs-once-downloads](https://github.com/node-js-collection/nbs-once-downloads)<br>A nbs add-on for auto cleaned download file system into temp folder<br>
+    - [nbs-expiry-files-system](https://github.com/node-js-collection/nbs-expiry-files-system)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
+    - [nbs-adds-pathcleaner](https://github.com/node-js-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
+    - [nbs-api-emitter-receiver](https://github.com/node-js-collection/nbs-api-emitter-receiver)<br>An nbs add-on to the API that emit and receive data<br>
+    - [nbs-adds-crud](https://github.com/node-js-collection/nbs-adds-crud)<br>An nbs add-on to the CRUD/API of file-system<br>
+    - [nbs-adds-mdbh](https://github.com/node-js-collection/nbs-adds-mdbh)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
 
 ---
 
