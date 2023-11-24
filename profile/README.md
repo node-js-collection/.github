@@ -3,7 +3,7 @@
 ---
 
 <a href="https://github.com/sponsors/js-node-collection">
-  <img src="https://raw.githubusercontent.com/js-collection/.github/main/banner.nodejscollection.webp">
+  <img src="https://raw.githubusercontent.com/js-node-collection/.github/main/banner.nodejscollection.webp">
 </a>
 
 ---
