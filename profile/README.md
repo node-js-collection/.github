@@ -32,6 +32,9 @@ In short: It's a folder collection abaut standard and experimental nodejs techni
 
 ### Project List:
 
+Inner Links:
+  - [js-collection-link](https://github.com/node-js-collection/js-collection-link)
+
 Open / Public:
   - [...]()
 
