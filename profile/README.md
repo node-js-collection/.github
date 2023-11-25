@@ -47,7 +47,7 @@ Closed/Private
     - [nbs-adds-pathcleaner](https://github.com/node-js-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
     - [nbs-api-emitter-receiver](https://github.com/node-js-collection/nbs-api-emitter-receiver)<br>An nbs add-on to the API that emit and receive data<br>
     - [nbs-base-crud-api](https://github.com/node-js-collection/nbs-base-crud-api)<br>An nbs add-on to the CRUD/API of file-system<br>
-    - [nbs-base-mdbh-api](https://github.com/node-js-collection/nbs-base-mdbh-api)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
+    - [nbs-base-mongodb-api](https://github.com/node-js-collection/nbs-base-mongodb-api)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
 
 ---
 
