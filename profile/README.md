@@ -46,7 +46,7 @@ Closed/Private
     - [nbs-expiry-files-system](https://github.com/node-js-collection/nbs-expiry-files-system)<br>A nbs add-on for automatic maintenance of files into temp folder<br>
     - [nbs-adds-pathcleaner](https://github.com/node-js-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
     - [nbs-api-emitter-receiver](https://github.com/node-js-collection/nbs-api-emitter-receiver)<br>An nbs add-on to the API that emit and receive data<br>
-    - [nbs-adds-crud](https://github.com/node-js-collection/nbs-adds-crud)<br>An nbs add-on to the CRUD/API of file-system<br>
+    - [nbs-files-crud](https://github.com/node-js-collection/nbs-files-crud)<br>An nbs add-on to the CRUD/API of file-system<br>
     - [nbs-adds-mdbh](https://github.com/node-js-collection/nbs-adds-mdbh)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
 
 ---
