@@ -47,8 +47,9 @@ Closed/Private
     - [nbs-adds-pathcleaner](https://github.com/node-js-collection/nbs-adds-pathcleaner)<br>An nbs add-on for clean paths with options<br>
     - [nbs-api-emitter-receiver](https://github.com/node-js-collection/nbs-api-emitter-receiver)<br>An nbs add-on to the API that emit and receive data<br>
     - [nbs-base-crud-api](https://github.com/node-js-collection/nbs-base-crud-api)<br>An nbs add-on to the CRUD/API of file-system<br>
-    - [nbs-base-mongodb-api](https://github.com/node-js-collection/nbs-base-mongodb-api)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br>
-
+    - [nbs-base-mongodb-api](https://github.com/node-js-collection/nbs-base-mongodb-api)<br>An nbs add-on, a MongoDB hooks/API developed for management an internal database<br><br>
+    - extras: [nbs-mdbh-tester](https://github.com/node-js-collection/nbs-mdbh-tester) A tester zone to make new model of mongodb hooks and mongodb management<br>
+    - extras: [nbs-class-tester](https://github.com/node-js-collection/nbs-class-tester) A tester zone to make new model of mongodb hooks and mongodb management<br>
 ---
 
 <span>Credits: </span> <b><a href="https://github.com/berto-dev">github @Deveet-Technologies</a> / <a href="https://deveet.com">https://deveet.com</a> and Alberto Mararangelo <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
